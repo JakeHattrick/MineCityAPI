@@ -1,0 +1,12 @@
+movePlayer:A,2
+turnPlayer:B,right
+movePlayer:B,-3
+movePlayer:C,5
+mineItem:C,diamond
+mineItem:A,coin
+mineItem:B,diamond
+lookupInventory:A
+lookupInventory:B
+lookupItemOwners:diamond
+lookupDistance:A,B
+lookupDistance:A,-1,1
